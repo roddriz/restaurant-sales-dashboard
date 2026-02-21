@@ -1,6 +1,6 @@
 # Restaurant Sales Performance Dashboard
 
-![Dashboard Preview](Restaurant-Sales-Dashboard.png)
+![Dashboard Preview](Restaurant-Sales-Dashboard)
 
 ## Overview
 This project analyzes restaurant sales data using Power BI to identify revenue trends, top-performing products, and category performance.
