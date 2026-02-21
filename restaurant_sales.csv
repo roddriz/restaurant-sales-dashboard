@@ -1,0 +1,501 @@
+order_id,date,product_name,category,price,quantity,revenue
+1000,2025-04-13,Beef Burger,Burger,7.5,1,7.5
+1001,2025-06-29,Veggie Burger,Burger,6.0,2,12.0
+1002,2025-04-03,Veggie Burger,Burger,6.0,3,18.0
+1003,2025-01-15,Chicken Burger,Burger,6.5,2,13.0
+1004,2025-04-17,Pizza,Main,8.0,1,8.0
+1005,2025-03-13,Salad,Main,5.5,2,11.0
+1006,2025-01-21,Salad,Main,5.5,2,11.0
+1007,2025-04-13,Beef Burger,Burger,7.5,3,22.5
+1008,2025-05-02,Pasta,Main,7.0,3,21.0
+1009,2025-03-16,Fries,Sides,3.0,2,6.0
+1010,2025-03-29,Coke,Drinks,2.0,2,4.0
+1011,2025-04-27,Pizza,Main,8.0,4,32.0
+1012,2025-04-10,Pasta,Main,7.0,1,7.0
+1013,2025-04-14,Pasta,Main,7.0,4,28.0
+1014,2025-06-01,Salad,Main,5.5,1,5.5
+1015,2025-05-11,Pasta,Main,7.0,4,28.0
+1016,2025-05-30,Veggie Burger,Burger,6.0,1,6.0
+1017,2025-02-22,Veggie Burger,Burger,6.0,4,24.0
+1018,2025-01-02,Fries,Sides,3.0,2,6.0
+1019,2025-03-29,Chicken Burger,Burger,6.5,3,19.5
+1020,2025-06-07,Pizza,Main,8.0,3,24.0
+1021,2025-02-07,Coke,Drinks,2.0,4,8.0
+1022,2025-05-10,Chicken Burger,Burger,6.5,3,19.5
+1023,2025-01-21,Coffee,Drinks,2.5,1,2.5
+1024,2025-06-10,Veggie Burger,Burger,6.0,1,6.0
+1025,2025-02-27,Chicken Burger,Burger,6.5,1,6.5
+1026,2025-01-22,Fries,Sides,3.0,4,12.0
+1027,2025-03-30,Pasta,Main,7.0,2,14.0
+1028,2025-02-18,Veggie Burger,Burger,6.0,1,6.0
+1029,2025-02-28,Fries,Sides,3.0,4,12.0
+1030,2025-06-19,Pasta,Main,7.0,3,21.0
+1031,2025-01-15,Pasta,Main,7.0,3,21.0
+1032,2025-06-24,Fries,Sides,3.0,3,9.0
+1033,2025-02-20,Salad,Main,5.5,3,16.5
+1034,2025-04-18,Coke,Drinks,2.0,1,2.0
+1035,2025-02-24,Veggie Burger,Burger,6.0,4,24.0
+1036,2025-03-05,Pasta,Main,7.0,4,28.0
+1037,2025-05-11,Coke,Drinks,2.0,4,8.0
+1038,2025-02-20,Coke,Drinks,2.0,3,6.0
+1039,2025-05-15,Pasta,Main,7.0,3,21.0
+1040,2025-01-21,Coke,Drinks,2.0,2,4.0
+1041,2025-03-14,Salad,Main,5.5,3,16.5
+1042,2025-06-16,Salad,Main,5.5,1,5.5
+1043,2025-01-18,Veggie Burger,Burger,6.0,3,18.0
+1044,2025-05-12,Beef Burger,Burger,7.5,3,22.5
+1045,2025-03-30,Pasta,Main,7.0,2,14.0
+1046,2025-03-01,Salad,Main,5.5,4,22.0
+1047,2025-01-14,Chicken Burger,Burger,6.5,1,6.5
+1048,2025-01-09,Pepsi,Drinks,2.0,3,6.0
+1049,2025-03-31,Pizza,Main,8.0,2,16.0
+1050,2025-02-22,Pasta,Main,7.0,2,14.0
+1051,2025-05-10,Salad,Main,5.5,2,11.0
+1052,2025-03-25,Coke,Drinks,2.0,1,2.0
+1053,2025-04-02,Coke,Drinks,2.0,2,4.0
+1054,2025-04-21,Veggie Burger,Burger,6.0,4,24.0
+1055,2025-06-21,Chicken Burger,Burger,6.5,2,13.0
+1056,2025-01-08,Fries,Sides,3.0,1,3.0
+1057,2025-06-24,Coffee,Drinks,2.5,1,2.5
+1058,2025-02-04,Fries,Sides,3.0,4,12.0
+1059,2025-03-22,Pepsi,Drinks,2.0,4,8.0
+1060,2025-06-13,Veggie Burger,Burger,6.0,1,6.0
+1061,2025-02-19,Pepsi,Drinks,2.0,3,6.0
+1062,2025-04-14,Salad,Main,5.5,2,11.0
+1063,2025-05-12,Veggie Burger,Burger,6.0,3,18.0
+1064,2025-01-02,Veggie Burger,Burger,6.0,1,6.0
+1065,2025-05-14,Beef Burger,Burger,7.5,4,30.0
+1066,2025-02-23,Salad,Main,5.5,4,22.0
+1067,2025-04-16,Pizza,Main,8.0,1,8.0
+1068,2025-01-04,Pasta,Main,7.0,3,21.0
+1069,2025-02-23,Chicken Burger,Burger,6.5,3,19.5
+1070,2025-05-26,Pasta,Main,7.0,3,21.0
+1071,2025-02-13,Chicken Burger,Burger,6.5,1,6.5
+1072,2025-06-11,Pizza,Main,8.0,1,8.0
+1073,2025-01-14,Pepsi,Drinks,2.0,1,2.0
+1074,2025-04-05,Pepsi,Drinks,2.0,2,4.0
+1075,2025-02-17,Coke,Drinks,2.0,4,8.0
+1076,2025-01-15,Pepsi,Drinks,2.0,1,2.0
+1077,2025-02-09,Coke,Drinks,2.0,4,8.0
+1078,2025-03-23,Veggie Burger,Burger,6.0,3,18.0
+1079,2025-04-21,Fries,Sides,3.0,1,3.0
+1080,2025-02-22,Beef Burger,Burger,7.5,3,22.5
+1081,2025-01-24,Pasta,Main,7.0,1,7.0
+1082,2025-06-03,Chicken Burger,Burger,6.5,1,6.5
+1083,2025-05-04,Pepsi,Drinks,2.0,2,4.0
+1084,2025-02-10,Veggie Burger,Burger,6.0,4,24.0
+1085,2025-06-06,Coffee,Drinks,2.5,1,2.5
+1086,2025-01-15,Salad,Main,5.5,4,22.0
+1087,2025-02-14,Pizza,Main,8.0,2,16.0
+1088,2025-03-06,Pizza,Main,8.0,4,32.0
+1089,2025-03-30,Coke,Drinks,2.0,4,8.0
+1090,2025-03-12,Salad,Main,5.5,4,22.0
+1091,2025-01-09,Fries,Sides,3.0,2,6.0
+1092,2025-03-29,Pizza,Main,8.0,2,16.0
+1093,2025-05-09,Beef Burger,Burger,7.5,4,30.0
+1094,2025-05-16,Coke,Drinks,2.0,1,2.0
+1095,2025-03-04,Fries,Sides,3.0,4,12.0
+1096,2025-05-19,Pepsi,Drinks,2.0,3,6.0
+1097,2025-03-22,Chicken Burger,Burger,6.5,1,6.5
+1098,2025-05-16,Chicken Burger,Burger,6.5,1,6.5
+1099,2025-06-12,Fries,Sides,3.0,1,3.0
+1100,2025-06-12,Veggie Burger,Burger,6.0,1,6.0
+1101,2025-02-02,Pepsi,Drinks,2.0,2,4.0
+1102,2025-05-03,Veggie Burger,Burger,6.0,4,24.0
+1103,2025-01-05,Coke,Drinks,2.0,3,6.0
+1104,2025-02-10,Pasta,Main,7.0,2,14.0
+1105,2025-01-28,Salad,Main,5.5,4,22.0
+1106,2025-05-15,Beef Burger,Burger,7.5,3,22.5
+1107,2025-03-13,Coke,Drinks,2.0,3,6.0
+1108,2025-01-12,Pizza,Main,8.0,1,8.0
+1109,2025-06-11,Pepsi,Drinks,2.0,1,2.0
+1110,2025-02-02,Beef Burger,Burger,7.5,4,30.0
+1111,2025-02-17,Chicken Burger,Burger,6.5,3,19.5
+1112,2025-05-31,Coke,Drinks,2.0,2,4.0
+1113,2025-03-03,Pasta,Main,7.0,2,14.0
+1114,2025-02-06,Chicken Burger,Burger,6.5,1,6.5
+1115,2025-04-09,Chicken Burger,Burger,6.5,2,13.0
+1116,2025-06-21,Pasta,Main,7.0,3,21.0
+1117,2025-04-14,Chicken Burger,Burger,6.5,1,6.5
+1118,2025-02-04,Coffee,Drinks,2.5,2,5.0
+1119,2025-04-11,Chicken Burger,Burger,6.5,1,6.5
+1120,2025-06-24,Coke,Drinks,2.0,2,4.0
+1121,2025-05-11,Veggie Burger,Burger,6.0,1,6.0
+1122,2025-01-01,Coffee,Drinks,2.5,1,2.5
+1123,2025-01-05,Coke,Drinks,2.0,1,2.0
+1124,2025-05-22,Salad,Main,5.5,2,11.0
+1125,2025-04-13,Veggie Burger,Burger,6.0,1,6.0
+1126,2025-01-27,Coke,Drinks,2.0,2,4.0
+1127,2025-05-17,Pasta,Main,7.0,2,14.0
+1128,2025-01-15,Chicken Burger,Burger,6.5,3,19.5
+1129,2025-03-31,Fries,Sides,3.0,2,6.0
+1130,2025-02-11,Chicken Burger,Burger,6.5,1,6.5
+1131,2025-05-04,Pizza,Main,8.0,4,32.0
+1132,2025-06-28,Beef Burger,Burger,7.5,4,30.0
+1133,2025-03-04,Pizza,Main,8.0,3,24.0
+1134,2025-04-06,Salad,Main,5.5,2,11.0
+1135,2025-02-21,Beef Burger,Burger,7.5,2,15.0
+1136,2025-04-06,Pepsi,Drinks,2.0,3,6.0
+1137,2025-05-12,Beef Burger,Burger,7.5,4,30.0
+1138,2025-05-31,Chicken Burger,Burger,6.5,2,13.0
+1139,2025-05-23,Coke,Drinks,2.0,2,4.0
+1140,2025-06-20,Pasta,Main,7.0,1,7.0
+1141,2025-01-29,Coffee,Drinks,2.5,3,7.5
+1142,2025-02-05,Coke,Drinks,2.0,1,2.0
+1143,2025-01-13,Beef Burger,Burger,7.5,3,22.5
+1144,2025-06-09,Veggie Burger,Burger,6.0,3,18.0
+1145,2025-03-12,Pepsi,Drinks,2.0,4,8.0
+1146,2025-03-27,Beef Burger,Burger,7.5,2,15.0
+1147,2025-01-28,Beef Burger,Burger,7.5,2,15.0
+1148,2025-03-07,Beef Burger,Burger,7.5,2,15.0
+1149,2025-06-19,Veggie Burger,Burger,6.0,3,18.0
+1150,2025-02-14,Beef Burger,Burger,7.5,4,30.0
+1151,2025-03-03,Pasta,Main,7.0,2,14.0
+1152,2025-05-14,Chicken Burger,Burger,6.5,4,26.0
+1153,2025-01-28,Coffee,Drinks,2.5,2,5.0
+1154,2025-01-28,Veggie Burger,Burger,6.0,1,6.0
+1155,2025-04-18,Coke,Drinks,2.0,1,2.0
+1156,2025-02-13,Fries,Sides,3.0,2,6.0
+1157,2025-03-25,Pizza,Main,8.0,1,8.0
+1158,2025-01-30,Salad,Main,5.5,1,5.5
+1159,2025-03-16,Fries,Sides,3.0,4,12.0
+1160,2025-05-08,Coke,Drinks,2.0,2,4.0
+1161,2025-04-02,Pepsi,Drinks,2.0,1,2.0
+1162,2025-05-09,Beef Burger,Burger,7.5,1,7.5
+1163,2025-05-01,Veggie Burger,Burger,6.0,3,18.0
+1164,2025-01-27,Pasta,Main,7.0,3,21.0
+1165,2025-05-01,Coffee,Drinks,2.5,4,10.0
+1166,2025-04-26,Pepsi,Drinks,2.0,4,8.0
+1167,2025-01-03,Pizza,Main,8.0,4,32.0
+1168,2025-04-13,Pizza,Main,8.0,4,32.0
+1169,2025-06-04,Pizza,Main,8.0,1,8.0
+1170,2025-05-17,Veggie Burger,Burger,6.0,4,24.0
+1171,2025-03-03,Veggie Burger,Burger,6.0,3,18.0
+1172,2025-06-14,Beef Burger,Burger,7.5,1,7.5
+1173,2025-02-20,Salad,Main,5.5,3,16.5
+1174,2025-06-21,Veggie Burger,Burger,6.0,1,6.0
+1175,2025-06-01,Coke,Drinks,2.0,2,4.0
+1176,2025-02-28,Salad,Main,5.5,1,5.5
+1177,2025-04-28,Pepsi,Drinks,2.0,1,2.0
+1178,2025-06-09,Pepsi,Drinks,2.0,1,2.0
+1179,2025-04-06,Coke,Drinks,2.0,1,2.0
+1180,2025-06-29,Salad,Main,5.5,2,11.0
+1181,2025-04-23,Beef Burger,Burger,7.5,1,7.5
+1182,2025-03-03,Salad,Main,5.5,1,5.5
+1183,2025-02-21,Pasta,Main,7.0,2,14.0
+1184,2025-01-12,Pasta,Main,7.0,3,21.0
+1185,2025-02-08,Pasta,Main,7.0,2,14.0
+1186,2025-05-10,Pizza,Main,8.0,2,16.0
+1187,2025-05-11,Chicken Burger,Burger,6.5,2,13.0
+1188,2025-04-23,Fries,Sides,3.0,1,3.0
+1189,2025-04-11,Pizza,Main,8.0,1,8.0
+1190,2025-04-23,Veggie Burger,Burger,6.0,1,6.0
+1191,2025-03-22,Fries,Sides,3.0,3,9.0
+1192,2025-04-23,Pizza,Main,8.0,2,16.0
+1193,2025-01-02,Salad,Main,5.5,4,22.0
+1194,2025-05-10,Coffee,Drinks,2.5,2,5.0
+1195,2025-02-23,Pizza,Main,8.0,2,16.0
+1196,2025-03-28,Salad,Main,5.5,2,11.0
+1197,2025-05-09,Pizza,Main,8.0,3,24.0
+1198,2025-05-27,Coffee,Drinks,2.5,3,7.5
+1199,2025-05-06,Coffee,Drinks,2.5,2,5.0
+1200,2025-05-10,Beef Burger,Burger,7.5,2,15.0
+1201,2025-02-22,Pepsi,Drinks,2.0,3,6.0
+1202,2025-06-21,Veggie Burger,Burger,6.0,3,18.0
+1203,2025-06-09,Pasta,Main,7.0,3,21.0
+1204,2025-06-09,Coke,Drinks,2.0,4,8.0
+1205,2025-03-09,Salad,Main,5.5,3,16.5
+1206,2025-05-03,Pasta,Main,7.0,1,7.0
+1207,2025-05-25,Coffee,Drinks,2.5,2,5.0
+1208,2025-02-07,Salad,Main,5.5,2,11.0
+1209,2025-01-24,Pasta,Main,7.0,1,7.0
+1210,2025-03-10,Fries,Sides,3.0,1,3.0
+1211,2025-04-26,Fries,Sides,3.0,2,6.0
+1212,2025-04-08,Veggie Burger,Burger,6.0,1,6.0
+1213,2025-05-19,Beef Burger,Burger,7.5,3,22.5
+1214,2025-05-24,Fries,Sides,3.0,3,9.0
+1215,2025-04-07,Pepsi,Drinks,2.0,2,4.0
+1216,2025-05-04,Pizza,Main,8.0,4,32.0
+1217,2025-03-11,Chicken Burger,Burger,6.5,4,26.0
+1218,2025-04-03,Veggie Burger,Burger,6.0,2,12.0
+1219,2025-01-03,Pasta,Main,7.0,1,7.0
+1220,2025-05-28,Pepsi,Drinks,2.0,4,8.0
+1221,2025-06-13,Salad,Main,5.5,4,22.0
+1222,2025-05-27,Beef Burger,Burger,7.5,3,22.5
+1223,2025-03-31,Pizza,Main,8.0,3,24.0
+1224,2025-05-27,Pepsi,Drinks,2.0,1,2.0
+1225,2025-05-28,Pasta,Main,7.0,1,7.0
+1226,2025-04-06,Coke,Drinks,2.0,2,4.0
+1227,2025-02-21,Coke,Drinks,2.0,2,4.0
+1228,2025-06-10,Pepsi,Drinks,2.0,3,6.0
+1229,2025-06-17,Fries,Sides,3.0,2,6.0
+1230,2025-05-08,Pizza,Main,8.0,3,24.0
+1231,2025-02-08,Pasta,Main,7.0,3,21.0
+1232,2025-03-23,Veggie Burger,Burger,6.0,3,18.0
+1233,2025-04-14,Pizza,Main,8.0,1,8.0
+1234,2025-05-09,Fries,Sides,3.0,4,12.0
+1235,2025-01-11,Pepsi,Drinks,2.0,2,4.0
+1236,2025-06-27,Fries,Sides,3.0,4,12.0
+1237,2025-05-31,Fries,Sides,3.0,3,9.0
+1238,2025-06-08,Pepsi,Drinks,2.0,2,4.0
+1239,2025-02-11,Chicken Burger,Burger,6.5,2,13.0
+1240,2025-04-09,Pizza,Main,8.0,2,16.0
+1241,2025-01-07,Veggie Burger,Burger,6.0,2,12.0
+1242,2025-05-24,Pasta,Main,7.0,2,14.0
+1243,2025-03-31,Pizza,Main,8.0,2,16.0
+1244,2025-04-22,Veggie Burger,Burger,6.0,1,6.0
+1245,2025-03-01,Coke,Drinks,2.0,2,4.0
+1246,2025-04-23,Salad,Main,5.5,2,11.0
+1247,2025-01-02,Fries,Sides,3.0,3,9.0
+1248,2025-05-09,Fries,Sides,3.0,1,3.0
+1249,2025-02-17,Fries,Sides,3.0,1,3.0
+1250,2025-05-20,Chicken Burger,Burger,6.5,2,13.0
+1251,2025-02-06,Pepsi,Drinks,2.0,1,2.0
+1252,2025-06-09,Fries,Sides,3.0,1,3.0
+1253,2025-01-09,Veggie Burger,Burger,6.0,1,6.0
+1254,2025-04-09,Pepsi,Drinks,2.0,2,4.0
+1255,2025-05-27,Pizza,Main,8.0,2,16.0
+1256,2025-02-17,Coke,Drinks,2.0,3,6.0
+1257,2025-05-11,Salad,Main,5.5,4,22.0
+1258,2025-05-28,Beef Burger,Burger,7.5,1,7.5
+1259,2025-06-01,Pizza,Main,8.0,2,16.0
+1260,2025-02-23,Fries,Sides,3.0,1,3.0
+1261,2025-04-30,Coke,Drinks,2.0,1,2.0
+1262,2025-06-10,Chicken Burger,Burger,6.5,1,6.5
+1263,2025-06-01,Pizza,Main,8.0,2,16.0
+1264,2025-04-26,Coffee,Drinks,2.5,3,7.5
+1265,2025-03-16,Chicken Burger,Burger,6.5,1,6.5
+1266,2025-04-23,Beef Burger,Burger,7.5,2,15.0
+1267,2025-06-13,Coke,Drinks,2.0,4,8.0
+1268,2025-06-15,Pasta,Main,7.0,2,14.0
+1269,2025-04-14,Veggie Burger,Burger,6.0,3,18.0
+1270,2025-03-25,Chicken Burger,Burger,6.5,4,26.0
+1271,2025-04-22,Pepsi,Drinks,2.0,4,8.0
+1272,2025-04-09,Pizza,Main,8.0,3,24.0
+1273,2025-06-02,Pasta,Main,7.0,1,7.0
+1274,2025-04-03,Veggie Burger,Burger,6.0,1,6.0
+1275,2025-05-26,Coke,Drinks,2.0,1,2.0
+1276,2025-05-08,Veggie Burger,Burger,6.0,3,18.0
+1277,2025-04-20,Salad,Main,5.5,2,11.0
+1278,2025-03-23,Fries,Sides,3.0,1,3.0
+1279,2025-02-23,Salad,Main,5.5,1,5.5
+1280,2025-06-12,Beef Burger,Burger,7.5,4,30.0
+1281,2025-06-18,Pizza,Main,8.0,3,24.0
+1282,2025-06-10,Pizza,Main,8.0,2,16.0
+1283,2025-03-09,Veggie Burger,Burger,6.0,1,6.0
+1284,2025-02-02,Pepsi,Drinks,2.0,1,2.0
+1285,2025-05-22,Coffee,Drinks,2.5,3,7.5
+1286,2025-01-21,Chicken Burger,Burger,6.5,1,6.5
+1287,2025-02-17,Chicken Burger,Burger,6.5,1,6.5
+1288,2025-05-28,Coffee,Drinks,2.5,2,5.0
+1289,2025-05-08,Coke,Drinks,2.0,4,8.0
+1290,2025-05-16,Pizza,Main,8.0,3,24.0
+1291,2025-05-15,Coffee,Drinks,2.5,3,7.5
+1292,2025-05-25,Pepsi,Drinks,2.0,2,4.0
+1293,2025-05-08,Veggie Burger,Burger,6.0,3,18.0
+1294,2025-02-02,Veggie Burger,Burger,6.0,4,24.0
+1295,2025-06-25,Salad,Main,5.5,4,22.0
+1296,2025-04-25,Fries,Sides,3.0,3,9.0
+1297,2025-04-29,Chicken Burger,Burger,6.5,4,26.0
+1298,2025-01-22,Coffee,Drinks,2.5,3,7.5
+1299,2025-06-07,Fries,Sides,3.0,1,3.0
+1300,2025-02-07,Pepsi,Drinks,2.0,1,2.0
+1301,2025-04-19,Chicken Burger,Burger,6.5,1,6.5
+1302,2025-02-20,Coke,Drinks,2.0,3,6.0
+1303,2025-01-08,Coffee,Drinks,2.5,1,2.5
+1304,2025-01-27,Fries,Sides,3.0,2,6.0
+1305,2025-01-27,Beef Burger,Burger,7.5,2,15.0
+1306,2025-01-21,Coke,Drinks,2.0,3,6.0
+1307,2025-01-30,Salad,Main,5.5,1,5.5
+1308,2025-04-07,Pepsi,Drinks,2.0,2,4.0
+1309,2025-01-28,Fries,Sides,3.0,1,3.0
+1310,2025-04-21,Pizza,Main,8.0,4,32.0
+1311,2025-03-02,Pizza,Main,8.0,3,24.0
+1312,2025-02-17,Pizza,Main,8.0,1,8.0
+1313,2025-05-27,Fries,Sides,3.0,4,12.0
+1314,2025-01-04,Beef Burger,Burger,7.5,3,22.5
+1315,2025-02-04,Veggie Burger,Burger,6.0,3,18.0
+1316,2025-02-18,Fries,Sides,3.0,4,12.0
+1317,2025-01-17,Salad,Main,5.5,3,16.5
+1318,2025-06-21,Coke,Drinks,2.0,4,8.0
+1319,2025-06-07,Salad,Main,5.5,4,22.0
+1320,2025-02-15,Pepsi,Drinks,2.0,2,4.0
+1321,2025-04-27,Pizza,Main,8.0,3,24.0
+1322,2025-01-06,Salad,Main,5.5,2,11.0
+1323,2025-04-09,Salad,Main,5.5,1,5.5
+1324,2025-05-04,Pizza,Main,8.0,2,16.0
+1325,2025-02-06,Beef Burger,Burger,7.5,1,7.5
+1326,2025-01-24,Chicken Burger,Burger,6.5,3,19.5
+1327,2025-04-03,Pizza,Main,8.0,4,32.0
+1328,2025-02-15,Fries,Sides,3.0,4,12.0
+1329,2025-04-05,Fries,Sides,3.0,1,3.0
+1330,2025-04-09,Pizza,Main,8.0,1,8.0
+1331,2025-04-26,Pizza,Main,8.0,3,24.0
+1332,2025-06-09,Salad,Main,5.5,1,5.5
+1333,2025-06-10,Salad,Main,5.5,1,5.5
+1334,2025-03-08,Pepsi,Drinks,2.0,3,6.0
+1335,2025-05-08,Pizza,Main,8.0,1,8.0
+1336,2025-01-18,Pepsi,Drinks,2.0,3,6.0
+1337,2025-01-25,Coffee,Drinks,2.5,1,2.5
+1338,2025-02-23,Coke,Drinks,2.0,1,2.0
+1339,2025-02-27,Salad,Main,5.5,2,11.0
+1340,2025-03-08,Fries,Sides,3.0,2,6.0
+1341,2025-04-14,Coffee,Drinks,2.5,1,2.5
+1342,2025-06-23,Chicken Burger,Burger,6.5,3,19.5
+1343,2025-01-24,Pepsi,Drinks,2.0,3,6.0
+1344,2025-04-24,Veggie Burger,Burger,6.0,4,24.0
+1345,2025-02-01,Coke,Drinks,2.0,3,6.0
+1346,2025-06-24,Pasta,Main,7.0,1,7.0
+1347,2025-03-27,Pasta,Main,7.0,2,14.0
+1348,2025-05-31,Fries,Sides,3.0,1,3.0
+1349,2025-05-07,Coke,Drinks,2.0,2,4.0
+1350,2025-06-04,Pasta,Main,7.0,3,21.0
+1351,2025-05-10,Fries,Sides,3.0,1,3.0
+1352,2025-01-17,Salad,Main,5.5,3,16.5
+1353,2025-04-14,Pepsi,Drinks,2.0,2,4.0
+1354,2025-06-10,Coffee,Drinks,2.5,2,5.0
+1355,2025-05-17,Beef Burger,Burger,7.5,3,22.5
+1356,2025-02-12,Chicken Burger,Burger,6.5,4,26.0
+1357,2025-06-25,Veggie Burger,Burger,6.0,2,12.0
+1358,2025-02-08,Pizza,Main,8.0,1,8.0
+1359,2025-06-19,Coffee,Drinks,2.5,4,10.0
+1360,2025-01-26,Pepsi,Drinks,2.0,1,2.0
+1361,2025-04-09,Pizza,Main,8.0,1,8.0
+1362,2025-02-19,Chicken Burger,Burger,6.5,1,6.5
+1363,2025-06-02,Pepsi,Drinks,2.0,2,4.0
+1364,2025-06-01,Beef Burger,Burger,7.5,1,7.5
+1365,2025-01-13,Chicken Burger,Burger,6.5,3,19.5
+1366,2025-03-01,Chicken Burger,Burger,6.5,4,26.0
+1367,2025-05-15,Pasta,Main,7.0,1,7.0
+1368,2025-02-26,Fries,Sides,3.0,2,6.0
+1369,2025-02-05,Pepsi,Drinks,2.0,4,8.0
+1370,2025-06-22,Pizza,Main,8.0,1,8.0
+1371,2025-01-20,Coffee,Drinks,2.5,1,2.5
+1372,2025-03-06,Coffee,Drinks,2.5,3,7.5
+1373,2025-01-08,Pizza,Main,8.0,3,24.0
+1374,2025-05-24,Chicken Burger,Burger,6.5,1,6.5
+1375,2025-05-22,Pizza,Main,8.0,3,24.0
+1376,2025-04-25,Beef Burger,Burger,7.5,1,7.5
+1377,2025-05-23,Veggie Burger,Burger,6.0,3,18.0
+1378,2025-04-02,Beef Burger,Burger,7.5,2,15.0
+1379,2025-04-08,Pepsi,Drinks,2.0,4,8.0
+1380,2025-03-07,Chicken Burger,Burger,6.5,2,13.0
+1381,2025-02-01,Pepsi,Drinks,2.0,3,6.0
+1382,2025-03-27,Fries,Sides,3.0,1,3.0
+1383,2025-02-20,Pizza,Main,8.0,1,8.0
+1384,2025-06-02,Coffee,Drinks,2.5,3,7.5
+1385,2025-03-04,Veggie Burger,Burger,6.0,4,24.0
+1386,2025-05-05,Salad,Main,5.5,2,11.0
+1387,2025-05-30,Veggie Burger,Burger,6.0,2,12.0
+1388,2025-02-27,Beef Burger,Burger,7.5,4,30.0
+1389,2025-02-27,Chicken Burger,Burger,6.5,3,19.5
+1390,2025-03-27,Coffee,Drinks,2.5,4,10.0
+1391,2025-02-18,Beef Burger,Burger,7.5,3,22.5
+1392,2025-06-29,Pizza,Main,8.0,1,8.0
+1393,2025-06-19,Pasta,Main,7.0,3,21.0
+1394,2025-03-11,Veggie Burger,Burger,6.0,4,24.0
+1395,2025-01-15,Coffee,Drinks,2.5,3,7.5
+1396,2025-02-23,Pizza,Main,8.0,2,16.0
+1397,2025-04-11,Pasta,Main,7.0,3,21.0
+1398,2025-01-08,Coke,Drinks,2.0,3,6.0
+1399,2025-02-22,Veggie Burger,Burger,6.0,1,6.0
+1400,2025-03-01,Pizza,Main,8.0,2,16.0
+1401,2025-04-18,Veggie Burger,Burger,6.0,4,24.0
+1402,2025-01-05,Pizza,Main,8.0,2,16.0
+1403,2025-04-13,Pizza,Main,8.0,2,16.0
+1404,2025-01-06,Fries,Sides,3.0,4,12.0
+1405,2025-04-19,Coke,Drinks,2.0,2,4.0
+1406,2025-04-26,Coke,Drinks,2.0,2,4.0
+1407,2025-04-04,Coffee,Drinks,2.5,4,10.0
+1408,2025-02-16,Beef Burger,Burger,7.5,3,22.5
+1409,2025-04-09,Salad,Main,5.5,3,16.5
+1410,2025-02-24,Chicken Burger,Burger,6.5,3,19.5
+1411,2025-06-17,Coke,Drinks,2.0,3,6.0
+1412,2025-02-21,Veggie Burger,Burger,6.0,4,24.0
+1413,2025-05-24,Beef Burger,Burger,7.5,2,15.0
+1414,2025-01-13,Chicken Burger,Burger,6.5,3,19.5
+1415,2025-04-24,Coke,Drinks,2.0,4,8.0
+1416,2025-05-04,Salad,Main,5.5,3,16.5
+1417,2025-04-16,Beef Burger,Burger,7.5,3,22.5
+1418,2025-06-07,Coffee,Drinks,2.5,3,7.5
+1419,2025-05-27,Fries,Sides,3.0,1,3.0
+1420,2025-05-25,Coke,Drinks,2.0,2,4.0
+1421,2025-04-30,Pasta,Main,7.0,2,14.0
+1422,2025-03-04,Coke,Drinks,2.0,4,8.0
+1423,2025-01-19,Veggie Burger,Burger,6.0,4,24.0
+1424,2025-04-02,Salad,Main,5.5,2,11.0
+1425,2025-02-27,Pizza,Main,8.0,1,8.0
+1426,2025-03-31,Salad,Main,5.5,2,11.0
+1427,2025-04-27,Pizza,Main,8.0,3,24.0
+1428,2025-03-03,Coffee,Drinks,2.5,4,10.0
+1429,2025-01-23,Chicken Burger,Burger,6.5,2,13.0
+1430,2025-05-07,Veggie Burger,Burger,6.0,1,6.0
+1431,2025-05-17,Pasta,Main,7.0,4,28.0
+1432,2025-05-20,Beef Burger,Burger,7.5,1,7.5
+1433,2025-05-09,Pasta,Main,7.0,3,21.0
+1434,2025-02-27,Pasta,Main,7.0,2,14.0
+1435,2025-05-02,Pepsi,Drinks,2.0,3,6.0
+1436,2025-01-01,Fries,Sides,3.0,2,6.0
+1437,2025-02-03,Salad,Main,5.5,1,5.5
+1438,2025-04-06,Beef Burger,Burger,7.5,3,22.5
+1439,2025-05-06,Coke,Drinks,2.0,3,6.0
+1440,2025-04-28,Pepsi,Drinks,2.0,2,4.0
+1441,2025-02-17,Coke,Drinks,2.0,2,4.0
+1442,2025-03-30,Fries,Sides,3.0,1,3.0
+1443,2025-04-27,Pepsi,Drinks,2.0,2,4.0
+1444,2025-05-09,Chicken Burger,Burger,6.5,1,6.5
+1445,2025-01-16,Pasta,Main,7.0,2,14.0
+1446,2025-03-10,Salad,Main,5.5,4,22.0
+1447,2025-01-22,Coffee,Drinks,2.5,1,2.5
+1448,2025-04-03,Salad,Main,5.5,2,11.0
+1449,2025-03-17,Coke,Drinks,2.0,3,6.0
+1450,2025-06-03,Pasta,Main,7.0,3,21.0
+1451,2025-05-24,Pepsi,Drinks,2.0,3,6.0
+1452,2025-06-28,Pizza,Main,8.0,2,16.0
+1453,2025-03-27,Pasta,Main,7.0,1,7.0
+1454,2025-01-29,Coffee,Drinks,2.5,2,5.0
+1455,2025-03-10,Chicken Burger,Burger,6.5,2,13.0
+1456,2025-02-16,Coke,Drinks,2.0,4,8.0
+1457,2025-04-04,Salad,Main,5.5,2,11.0
+1458,2025-05-24,Beef Burger,Burger,7.5,4,30.0
+1459,2025-06-25,Pepsi,Drinks,2.0,3,6.0
+1460,2025-03-26,Chicken Burger,Burger,6.5,3,19.5
+1461,2025-02-08,Coke,Drinks,2.0,4,8.0
+1462,2025-04-10,Veggie Burger,Burger,6.0,2,12.0
+1463,2025-02-02,Coke,Drinks,2.0,3,6.0
+1464,2025-04-11,Pizza,Main,8.0,3,24.0
+1465,2025-01-23,Fries,Sides,3.0,1,3.0
+1466,2025-01-10,Coffee,Drinks,2.5,4,10.0
+1467,2025-03-10,Veggie Burger,Burger,6.0,2,12.0
+1468,2025-04-10,Beef Burger,Burger,7.5,3,22.5
+1469,2025-02-03,Pizza,Main,8.0,2,16.0
+1470,2025-06-29,Pepsi,Drinks,2.0,1,2.0
+1471,2025-05-18,Pizza,Main,8.0,1,8.0
+1472,2025-05-27,Salad,Main,5.5,4,22.0
+1473,2025-04-06,Fries,Sides,3.0,3,9.0
+1474,2025-01-01,Veggie Burger,Burger,6.0,4,24.0
+1475,2025-03-10,Chicken Burger,Burger,6.5,2,13.0
+1476,2025-01-04,Beef Burger,Burger,7.5,1,7.5
+1477,2025-01-16,Salad,Main,5.5,2,11.0
+1478,2025-01-24,Coke,Drinks,2.0,1,2.0
+1479,2025-03-21,Pasta,Main,7.0,4,28.0
+1480,2025-01-02,Chicken Burger,Burger,6.5,1,6.5
+1481,2025-05-08,Pasta,Main,7.0,1,7.0
+1482,2025-06-09,Pizza,Main,8.0,2,16.0
+1483,2025-03-25,Pasta,Main,7.0,3,21.0
+1484,2025-06-01,Veggie Burger,Burger,6.0,3,18.0
+1485,2025-05-20,Beef Burger,Burger,7.5,1,7.5
+1486,2025-06-27,Veggie Burger,Burger,6.0,2,12.0
+1487,2025-06-12,Pepsi,Drinks,2.0,2,4.0
+1488,2025-05-04,Veggie Burger,Burger,6.0,1,6.0
+1489,2025-02-02,Chicken Burger,Burger,6.5,1,6.5
+1490,2025-06-10,Chicken Burger,Burger,6.5,2,13.0
+1491,2025-06-28,Pasta,Main,7.0,3,21.0
+1492,2025-06-20,Chicken Burger,Burger,6.5,3,19.5
+1493,2025-04-11,Pizza,Main,8.0,3,24.0
+1494,2025-01-12,Pizza,Main,8.0,3,24.0
+1495,2025-03-08,Coke,Drinks,2.0,1,2.0
+1496,2025-03-06,Coffee,Drinks,2.5,1,2.5
+1497,2025-06-10,Pepsi,Drinks,2.0,4,8.0
+1498,2025-06-17,Pepsi,Drinks,2.0,4,8.0
+1499,2025-03-15,Pasta,Main,7.0,2,14.0
